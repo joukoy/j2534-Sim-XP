@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31402.337
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ptshim32", "ptshim32\ptshim32.vcxproj", "{B6A85A8B-2D2E-4A25-84F6-A16E16F3C7FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug chrysler|Mixed Platforms = Debug chrysler|Mixed Platforms
+		Debug chrysler|Win32 = Debug chrysler|Win32
+		Debug chrysler|x86 = Debug chrysler|x86
+		Debug DPS|Mixed Platforms = Debug DPS|Mixed Platforms
+		Debug DPS|Win32 = Debug DPS|Win32
+		Debug DPS|x86 = Debug DPS|x86
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|Win32 = Debug|Win32
+		Debug|x86 = Debug|x86
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|Win32 = Release|Win32
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6A85A8B-2D2E-4A25-84F6-A16E16F3C7FF}.Debug chrysler|Mixed Platforms.ActiveCfg = Debug chrysler|Win32
+		{B6A85A8B-2D2E-4A25-84F6-A16E16F3C7FF}.Debug chrysler|Mixed Platforms.Build.0 = Debug chrysler|Win32
+		{B6A85A8B-2D2E-4A25-84F6-A16E16F3C7FF}.Debug chrysler|Win32.ActiveCfg = Debug chrysler|Win32
+		{B6A85A8B-2D2E-4A25-84F6-A16E16F3C7FF}.Debug chrysler|Win32.Build.0 = Debug chrysler|Win32
+		{B6A85A8B-2D2E-4A25-84F6-A16E16F3C7FF}.Debug chrysler|x86.ActiveCfg = Debug chrysler|Win32
+		{B6A85A8B-2D2E-4A25-84F6-A16E16F3C7FF}.Debug chrysler|x86.Build.0 = Debug chrysler|Win32
+		{B6A85A8B-2D2E-4A25-84F6-A16E16F3C7FF}.Debug DPS|Mixed Platforms.ActiveCfg = Debug DPS|Win32
+		{B6A85A8B-2D2E-4A25-84F6-A16E16F3C7FF}.Debug DPS|Mixed Platforms.Build.0 = Debug DPS|Win32
+		{B6A85A8B-2D2E-4A25-84F6-A16E16F3C7FF}.Debug DPS|Win32.ActiveCfg = Debug DPS|Win32
+		{B6A85A8B-2D2E-4A25-84F6-A16E16F3C7FF}.Debug DPS|Win32.Build.0 = Debug DPS|Win32
+		{B6A85A8B-2D2E-4A25-84F6-A16E16F3C7FF}.Debug DPS|x86.ActiveCfg = Debug DPS|Win32
+		{B6A85A8B-2D2E-4A25-84F6-A16E16F3C7FF}.Debug DPS|x86.Build.0 = Debug DPS|Win32
+		{B6A85A8B-2D2E-4A25-84F6-A16E16F3C7FF}.Debug|Mixed Platforms.ActiveCfg = Debug|Win32
+		{B6A85A8B-2D2E-4A25-84F6-A16E16F3C7FF}.Debug|Mixed Platforms.Build.0 = Debug|Win32
+		{B6A85A8B-2D2E-4A25-84F6-A16E16F3C7FF}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B6A85A8B-2D2E-4A25-84F6-A16E16F3C7FF}.Debug|Win32.Build.0 = Debug|Win32
+		{B6A85A8B-2D2E-4A25-84F6-A16E16F3C7FF}.Debug|x86.ActiveCfg = Debug|Win32
+		{B6A85A8B-2D2E-4A25-84F6-A16E16F3C7FF}.Release|Mixed Platforms.ActiveCfg = Release|Win32
+		{B6A85A8B-2D2E-4A25-84F6-A16E16F3C7FF}.Release|Mixed Platforms.Build.0 = Release|Win32
+		{B6A85A8B-2D2E-4A25-84F6-A16E16F3C7FF}.Release|Win32.ActiveCfg = Release|Win32
+		{B6A85A8B-2D2E-4A25-84F6-A16E16F3C7FF}.Release|Win32.Build.0 = Release|Win32
+		{B6A85A8B-2D2E-4A25-84F6-A16E16F3C7FF}.Release|x86.ActiveCfg = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A66F062B-62DD-467F-8E0F-C411649410B9}
+	EndGlobalSection
+EndGlobal
