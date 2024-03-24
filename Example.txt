@@ -1,0 +1,7 @@
+6C 10 F0 34=6C F0 10 74 44
+//Use wildcard, match with all messages starting 6C 10 F0 34 80
+6C 10 F0 34 80 *=6C F0 10 74 00 44
+//send first reply 10 times in 1000ms interval and will increase byte 5, +1 each time, than send second message:
+6c fe F0 10 36 05=6C FE F0 35 7F 78:10:1000:5+1; 6C FE 10 76 36
+//Send multiple messages:
+6C FE F0 28 00=6C F0 28 68 00;6C F0 40 68 00;6C F0 99 68 00
